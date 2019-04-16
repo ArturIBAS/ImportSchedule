@@ -1,0 +1,18 @@
+
+.align-header{
+  font-size: 20px;
+  position: absolute;
+  top:10%;
+  left: 40%;
+}
+
+.search-btn{
+	width: 70px !important; 
+	margin-top: 20px;
+}
+
+.form-schedule select{
+	margin-right: 40px;
+	max-width: 413px;
+}
+
